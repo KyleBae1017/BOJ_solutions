@@ -1,5 +1,11 @@
 # 📄 Problems I solved
 
+<br/>  
+
+<div align='left'> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bms2002"></div>
+
+<br/>
+
  ## Milestones
  ✅ Completed **Class 1** (2021/03/07)  
  
