@@ -13,6 +13,8 @@
  
  💯 **100 problems** solved (2021/07/19)  
  
+ 🔑 Solved **Gold** problem first (2021/07/19)
+ 
  💯 **150 problems** solved (2021/08/11)  
  
  ✅ Completed **Class 3** (2021/08/18)  
