@@ -4,7 +4,7 @@
 
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=bms2002)
 
- ## Milestones
+ ## 📍 Milestones
  ✅ Completed **Class 1** (2021/03/07)  
  
  ✅ Completed **Class 2** (2021/07/17)  
