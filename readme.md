@@ -17,6 +17,8 @@
  
  ✅ Completed **Class 3** (2021/08/18)  
  
+ 🔑 Solved **Platinum** problem first (2021/10/11)
+ 
  ## 🗂 Problem Lists
  (Will Be Updated)
  
