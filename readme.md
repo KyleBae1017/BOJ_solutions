@@ -11,13 +11,13 @@
  
  💯 **100 problems** solved (2021/07/19)  
  
- 🔑 Solved **Gold** problem first (2021/07/19)
+ 🔑 Solved first **Gold** problem (2021/07/19)
  
  💯 **150 problems** solved (2021/08/11)  
  
  ✅ Completed **Class 3** (2021/08/18)  
  
- 🔑 Solved **Platinum** problem first (2021/10/11)
+ 🔑 Solved first **Platinum** problem (2021/10/11)
  
  ## 🗂 Good Problems
  (Will Be Updated)
