@@ -19,6 +19,6 @@
  
  🔑 Solved **Platinum** problem first (2021/10/11)
  
- ## 🗂 Good Problem Lists
+ ## 🗂 Good Problems List
  (Will Be Updated)
  
