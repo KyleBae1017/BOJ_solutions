@@ -19,7 +19,7 @@
  
  🔑 Solved first **Platinum** problem (2021/10/11)
  
- ## 🗂 Good Problems
+ ## 🗂 Good Problems (배워가는 게 많았던 문제들)
 
 **#1645 랜선 자르기** (Parametric Search, Binary Search)
 
